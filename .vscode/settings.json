@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\aaduv\\Downloads\\postgresql-42.7.4.jar",
+        "src/postgresql-42.7.4.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
